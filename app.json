@@ -59,7 +59,7 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
-      "value": "2184829"
+      "value": ""
     },
     "REM_BG_API_KEY": {
       "description": "Required for Removing image background. Get your api key from https://www.remove.bg/",
@@ -83,7 +83,7 @@
     },
     "SUDO_COMMAND_HAND_LER": {
       "description": "Please enter sudo user command handler",
-      "value": ",",
+      "value": "*",
       "required": false
     },
     "API_HASH": {
@@ -92,19 +92,19 @@
     },
     "PLUGIN_CHANNEL": {
       "description": "Create a private group add rose  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": "-1001454124360"
+      "value": ""
     },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "create a private channel and then type .get_id add that value here for save messages",
-      "value": "-1001454124360"
+      "value": ""
     },
     "PRIVATE_GROUP_ID": {
       "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": "-1001454124360"
+      "value": ""
     },
     "PM_LOGGR_BOT_API_ID": {
        "description": "for login private messages create a private channel and do .get_id and add that id", 
-       "value": "-1001454124360"
+       "value": ""
     }, 
     "STRING_SESSION": {
       "description": "Get this value by running https://repl.it/itzgauravv/AuraXBot#main.py ",
@@ -154,7 +154,7 @@
     },
     "EMOJI_TO_DISPLAY_IN_HELP": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "⍣",
+      "value": "🤖",
       "required": false
     }, 
     "TZ": {
